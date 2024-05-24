@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Our-Ratlam/static/css/main.1f370f66.css",
+    "main.js": "/Our-Ratlam/static/js/main.13dbbe75.js",
+    "index.html": "/Our-Ratlam/index.html",
+    "main.1f370f66.css.map": "/Our-Ratlam/static/css/main.1f370f66.css.map",
+    "main.13dbbe75.js.map": "/Our-Ratlam/static/js/main.13dbbe75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f370f66.css",
+    "static/js/main.13dbbe75.js"
+  ]
+}
